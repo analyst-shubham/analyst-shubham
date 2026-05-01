@@ -1,7 +1,7 @@
 # Hi, I'm Shubham 
 **Data Analyst** | SQL · Power BI · Python · Power Query · DAX
 
-I build end-to-end analytics projects — from raw data cleaning to interactive dashboards that surface business insights.
+I build end-to-end analytics projects, from raw data cleaning to interactive dashboards that surface business insights.
 
 ## Tech Stack
 - **Data Visualization:** Power BI, DAX, Dashboards, Excel, KPI Reporting
