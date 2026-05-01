@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shubham 
 
-<!--
-**analyst-shubham/analyst-shubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst** | SQL · Power BI · Python · Power Query · DAX
 
-Here are some ideas to get you started:
+I build end-to-end analytics projects — from raw data from 
+cleaning to interactive dashboards that surface business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Data Visualization:** Power BI, DAX, Dashboards, Excel, KPI Reporting
+- **Database & Querying:** SQL, MySQL, PostgreSQL, Joins, CTEs, Window Functions
+- **ETL & Automation:** Power Query, Data cleaning, Data Validation
+- **Programming:** Python, Pandas, NumPy, Matplotlib
+
+## Featured Projects
+| Project | Tools | Highlights |
+|---|---|---|
+| [Hospitality Revenue Analytics](link) | Power BI | $1.69bn revenue, star schema, 20+ DAX measures |
+| [HR Attrition Analysis](link) | Power BI | 1,400+ employees, attrition drivers |
+| [HR Attendance Analytics](link) | Power BI, Power Query | Automated ETL, 85 employees |
+| [Pizza Sales Analysis](link) | SQL, Power BI | 48,000+ records, CTEs |
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)]((https://www.linkedin.com/in/shubhamkumarbhakta/))
+[![Email](https://img.shields.io/badge/Email-red)](mailto:shubham.kr1204@gmail.com)
