@@ -20,5 +20,5 @@ cleaning to interactive dashboards that surface business insights.
 | [Pizza Sales Analysis](link) | SQL, Power BI | 48,000+ records, CTEs |
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)]((https://www.linkedin.com/in/shubhamkumarbhakta/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)]([your-linkedin-url](https://www.linkedin.com/in/shubhamkumarbhakta/))
 [![Email](https://img.shields.io/badge/Email-red)](mailto:shubham.kr1204@gmail.com)
