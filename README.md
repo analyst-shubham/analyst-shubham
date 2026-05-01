@@ -18,5 +18,5 @@ I build end-to-end analytics projects, from raw data cleaning to interactive das
 | [Pizza Sales Analysis](https://github.com/analyst-shubham/Pizza-Sales-Analysis-SQL-PowerBI) | SQL, Power BI | 48,000+ records, CTEs |
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamkumarbhakta/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhambhakta/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shubham.kr1204@gmail.com)
