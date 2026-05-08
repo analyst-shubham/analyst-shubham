@@ -12,7 +12,7 @@ I build end-to-end analytics projects, from raw data cleaning to interactive das
 ## Featured Projects
 | Project | Tools | Highlights |
 |---|---|---|
-| [Credit Card Financial Performance Analysis](https://github.com/analyst-shubham/Credit-Card-Financial-Performance-Analysis_SQL_PowerBI) | SQL, Power BI | 10,000+ banking records, End-to-End analytics pipeline, 15+ DAX measures, 2 interactive dashboards |
+| [Credit Card Financial Performance Analysis](https://github.com/analyst-shubham/Credit-Card-Financial-Performance-Analysis_SQL_PowerBI) | SQL, Power BI, PowerQuery | 10,000+ banking records, End-to-End analytics pipeline, 15+ DAX measures, 2 interactive dashboards |
 | [Hospitality Revenue Analytics](https://github.com/analyst-shubham/Hospitality-Revenue-and-Performance-Analysis-PowerBI) | Power BI | $1.69bn revenue, star schema, 20+ DAX measures |
 | [HR Attrition Analysis](https://github.com/analyst-shubham/HR-Analytics-Attrition-Dashboard-PowerBI) | Power BI | 1,400+ employees, attrition drivers |
 | [HR Attendance Analytics](https://github.com/analyst-shubham/HR-Attendance-and-Leave-Analytics-Dashboard-PowerBI) | Power BI, Power Query | Automated ETL, 85 employees |
